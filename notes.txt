@@ -1,0 +1,61 @@
+Motivation
+==========
+
+To me (Florian Schulze) it feels like information about most crafting areas is very distributed and often behind paywalls.
+I imagine something where one can go to look for information and initially mostly terminology about several crafts to have a better jumping of point.
+For most crafting a basic knowledge of safety procedures is pretty essential to prevent injury.
+There are also regional differences in procedures, terminology, supplies and tools which make it harder to use the existing knowledge (mainly from YouTube).
+In germany there is a lack of trainees for most crafts, which IMO is partly caused by an information deficit and that most children don't see craftsman doing their work in their daily lives.
+
+
+Goals
+=====
+
+- Learning
+- Terminology to allow better searching
+- Reignite interest
+- Safety (mainly for power tools, but there are a lot of things that can end badly)
+- Match teachers/students
+- For different abilities (amateurs to professionals) and means (cheap to expensive tools)
+- Highlight important regional differences
+- Translation of terminology
+- Inform about/point out legal/insurance stuff (mainly regarding diy, not in a business context)
+
+
+Involve
+=======
+
+- Schools
+- Chamber of Crafts
+- Makers
+- Hackerspaces
+
+
+Areas
+=====
+
+- Woodworking
+- Metalworking
+- Gardening
+- Cooking
+- Sewing/Tailoring
+- Knitting
+
+
+Environment
+===========
+
+https://www.recurse.com/manual
+
+No feigning surprise
+No well-actually's
+No backseat-driving
+No subtle -isms
+
+
+Previous work/Links
+===================
+
+https://woodworking.stackexchange.com/
+https://handwerk.de
+https://www.handwerkskammer.de
